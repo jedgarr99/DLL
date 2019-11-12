@@ -1,0 +1,16 @@
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\bin\Debug\PruebaExcel.exe.config
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\bin\Debug\PruebaExcel.exe
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\bin\Debug\PruebaExcel.pdb
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.csproj.ResolveComReference.cache
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel_MarkupCompile.cache
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel_MarkupCompile.lref
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.g.resources
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.Properties.Resources.resources
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.exe
+C:\Users\dai\Desktop\DLL\PruebaExcel\PruebaExcel\obj\Debug\PruebaExcel.pdb

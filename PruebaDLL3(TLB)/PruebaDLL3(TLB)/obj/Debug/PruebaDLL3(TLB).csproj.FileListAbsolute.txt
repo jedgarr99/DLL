@@ -1,0 +1,7 @@
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\bin\Debug\PruebaDLL3(TLB).dll
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\bin\Debug\PruebaDLL3(TLB).pdb
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\obj\Debug\PruebaDLL3(TLB).csprojAssemblyReference.cache
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\obj\Debug\PruebaDLL3(TLB).csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\obj\Debug\PruebaDLL3(TLB).dll
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\obj\Debug\PruebaDLL3(TLB).pdb
+C:\Users\dai\Desktop\DLL\PruebaDLL3(TLB)\PruebaDLL3(TLB)\bin\Debug\PruebaDLL3(TLB).tlb
